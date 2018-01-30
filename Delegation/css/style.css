@@ -1,0 +1,22 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.list {
+    list-style: none;
+}
+
+.list_item {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+.btn_delete:hover {
+    cursor: pointer;
+}
+
+.info {
+    text-align: center;
+}
